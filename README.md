@@ -1,3 +1,5 @@
+Versão em Português [aqui](https://github.com/socialbanks/docs/blob/master/README-PT.md).
+
 ## About SocialBanks.Co
 **SocialBanks.co** is a SaaS platform that uses  [Bitcoin](http://en.wikipedia.org/wiki/Bitcoin) Technology in order to facilitate the issuance and management of local social money and make the social banks creation cheaper, easier and safer. At the same time, Bitcoin Technology can be used to receive donations worldwide directed to boost the local community economy. 
 
