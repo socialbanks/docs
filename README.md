@@ -1,4 +1,4 @@
-## Sobre SocialBanks
+## Sobre SocialBanks.Co
 **SocialBanks.co** é uma plataforma que utiliza a tecnologia [Bitcoin](http://en.wikipedia.org/wiki/Bitcoin) para permitir a implementação de moedas sociais de circulação local de forma mais barata, rápida e segura, bem como permitir a captação de doações para a comunidade local a partir de doações internacionais feitas em bitcoin. 
 
 Inicialmente está direcionada apenas para o Brasil, mas pode ser facilmente adaptada para qualquer país.
