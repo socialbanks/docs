@@ -28,9 +28,9 @@ invite bundle swamp observe tool rule gesture play afraid cream chuckle panel
 * Please login using the user mlcardoso with password 123456
 * Provide the words:
   virus decorate ahead sail hint buyer hollow smoke joke amused alert easy
-  to retrieve data from the user account * mlcardoso*.
-c. Click "History" and see that the transaction you performed earlier is displayed.
-d. Please logout
+  to retrieve data from the user account **mlcardoso**.
+* Click "History" and see that the transaction you performed earlier is displayed.
+* Please logout
 
 ### CREATING A NEW ACCOUNT
 
