@@ -38,6 +38,8 @@ d. Please logout
 
 ### CHECKING THE TRANSACTIONS AT BLOCKCHAIN
 
+Any new transaction must be tracked in the Bitcoin Blockchain in the following addresses:
+
  fabriciomatos at address
 (https://blockchain.info/address/1KJz2B4kQKYHzbMx6k4C8p51TUbuPJitPY)
 
