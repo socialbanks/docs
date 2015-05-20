@@ -1,6 +1,4 @@
-## SOCIAL BANKS - INSTRUCTIONS
-
-Dear visitor
+## SOCIAL BANKS - INSTRUCTIONS FOR BITHACK2
 
 We provide below a step-by-step so you can have the experience of a Social Banks platform user.
 
