@@ -33,3 +33,10 @@ invite bundle swamp observe tool rule gesture play afraid cream chuckle panel
 ### CREATING A NEW ACCOUNT
 
 * Finalizing, create a new account for you. The app will provide the 12 words that should be saved and used whenever you need to retrieve your account details. Include a new currency among the available on the system and perform the tests you deem necessary.
+
+ ### CHECKING THE TRANSACTIONS AT BLOCKCHAIN
+ 
+Any new transaction must be tracked in the Bitcoin Blockchain in the following addresses:
+
+ * User **fabriciomatos** at address (https://blockchain.info/address/3Qx7v3AQshdKGCqu81QYtkQFDwHKDqaNBi)
+ * User **mlcardoso** at address (https://blockchain.info/address/32guJiHqPdr6iR1LzTHwCGjjcH3nRcerQU)
